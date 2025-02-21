@@ -1,12 +1,4 @@
 import { StudentScore } from "@/types/studentScoreInterface";
-import {
-    Table,
-    TableBody,
-    TableCell,
-    TableHead,
-    TableHeader,
-    TableRow,
-} from "@/components/ui/table";
 import { ScoreTable } from "./score-table"; 
 
 export const ResultSearchScore = (
